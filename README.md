@@ -9,5 +9,5 @@
 6. 트리 알고리즘 - [link](https://github.com/JYPark-Code/LikeLion_13rd_Extra_Study/blob/main/%ED%98%BC%EA%B3%B5%EB%A8%B8%EC%8B%A0/210917_%ED%8A%B8%EB%A6%AC%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98.ipynb)
 7. 비지도 학습 - [link](https://github.com/JYPark-Code/LikeLion_13rd_Extra_Study/blob/main/%ED%98%BC%EA%B3%B5%EB%A8%B8%EC%8B%A0/210924_%EB%B9%84%EC%A7%80%EB%8F%84%ED%95%99%EC%8A%B5.ipynb)
 8. 딥러닝을 시작합니다. - [link](https://github.com/JYPark-Code/LikeLion_13rd_Extra_Study/blob/main/%ED%98%BC%EA%B3%B5%EB%A8%B8%EC%8B%A0/210927-28_%EB%94%A5%EB%9F%AC%EB%8B%9D%EC%8B%9C%EC%9E%91.ipynb)
-9. 이미지를 위한 인공 신경망 - 
+9. 이미지를 위한 인공 신경망 - [link](https://github.com/JYPark-Code/LikeLion_13rd_Extra_Study/blob/main/%ED%98%BC%EA%B3%B5%EB%A8%B8%EC%8B%A0/211004_%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC_%EC%9C%84%ED%95%9C_%EC%9D%B8%EA%B3%B5%EC%8B%A0%EA%B2%BD%EB%A7%9D.ipynb)
 10. 텍스트를 위한 인공 신경망 - 
